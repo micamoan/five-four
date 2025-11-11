@@ -6,6 +6,24 @@
     <description>Personal RSS feed for 5-4 bonus episodes.</description>
     <itunes:image href="https://micamoan.github.io/five-four/cover.png"/>
     <item>
+      <title>“What's at Stake is Everything”: The Last Columbia Protester in ICE Detention</title>
+      <enclosure url="https://n1.kemono.cr/data/46/02/46020a8485c9902956c3da5c357057bd488cb791a7ad32b2b479d809d0316cb1.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Nov 2025 09:00:25 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Garcetti v. Ceballos</title>
+      <enclosure url="https://n2.kemono.cr/data/c1/ee/c1eee1674a5bd075c7b14e6dc24dbbc3eb4a7ff5c13c35d5d0e6cb86b0caefe9.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Nov 2025 09:00:08 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Panic! In The Federal Judiciary [SUBSCRIBER-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/40/66/4066b29694e3b0b414eea4c81f4ebc2c2b11cfa7d9086e6de5ac0b9fc240f7eb.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Oct 2025 08:00:07 </pubDate>
+      <description/>
+    </item>
+    <item>
       <title>Immigration and Naturalization Service v. Lopez-Mendoza</title>
       <enclosure url="https://n4.kemono.cr/data/8c/7a/8c7a61698f7d00e57dfb6aa3306ecd94a50a9ad0df24b5d44a392857fb9c6903.mp3" type="audio/mpeg"/>
       <pubDate>Tue, 21 Oct 2025 08:00:09 </pubDate>

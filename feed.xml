@@ -6,6 +6,12 @@
     <description>Personal RSS feed for 5-4 bonus episodes.</description>
     <itunes:image href="https://micamoan.github.io/five-four/cover.png"/>
     <item>
+      <title>Department of Homeland Security v. Thuraissigiam</title>
+      <enclosure url="https://n2.kemono.cr/data/cf/5a/cf5aea85929b7392b95199c6ebbe240d79b4e5ba0f92e1b8550ecaab8580895d.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Nov 2025 09:00:10 </pubDate>
+      <description/>
+    </item>
+    <item>
       <title>“What's at Stake is Everything”: The Last Columbia Protester in ICE Detention</title>
       <enclosure url="https://n1.kemono.cr/data/46/02/46020a8485c9902956c3da5c357057bd488cb791a7ad32b2b479d809d0316cb1.mp3" type="audio/mpeg"/>
       <pubDate>Tue, 11 Nov 2025 09:00:25 </pubDate>
@@ -115,7 +121,7 @@
     </item>
     <item>
       <title>Trump v. CASA, Inc.</title>
-      <enclosure url="https://n4.kemono.cr/data/56/d8/56d8b84027778fa3c03e6f00e193169e4caf064225f501a965e5edfe54cc3936.mp3" type="audio/mpeg"/>
+      <enclosure url="https://n1.kemono.cr/data/56/d8/56d8b84027778fa3c03e6f00e193169e4caf064225f501a965e5edfe54cc3936.mp3" type="audio/mpeg"/>
       <pubDate>Tue, 08 Jul 2025 08:00:06 </pubDate>
       <description/>
     </item>
@@ -249,6 +255,1920 @@
       <title>McCutcheon v. FEC</title>
       <enclosure url="https://n1.kemono.cr/data/2b/2c/2b2c82c94486fa425d3fd446e8887196f43869d477d3fb94b12548e4dcfd821a.mp3" type="audio/mpeg"/>
       <pubDate>Tue, 25 Feb 2025 09:00:07 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>McCutcheon v. FEC</title>
+      <enclosure url="https://n3.kemono.cr/data/35/8e/358e21527e25e11e09933f51a5c9bee2de2db02dadff3b7613c98d8acce989be.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Feb 2025 09:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>NIFLA v. Becerra</title>
+      <enclosure url="https://n3.kemono.cr/data/6a/ae/6aae7201a47949c4199adefea158914f042bf76c44d349aa5a0c6b0ee59d9785.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Feb 2025 09:00:09 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>NIFLA v. Becerra</title>
+      <enclosure url="https://n3.kemono.cr/data/d1/95/d195510d4914c5553ff1be4717155e0bbe6e2622398527d1c8a5a5cad370ec77.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Feb 2025 09:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Trump's Opening Salvo</title>
+      <enclosure url="https://n2.kemono.cr/data/aa/58/aa5899889a4d24ed0c930f0cf5e79b72410b3a729c33d72b00af4bab6ea0d20b.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Feb 2025 09:00:08 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Trump’s Opening Salvo</title>
+      <enclosure url="https://n2.kemono.cr/data/d7/e6/d7e69a394e8aff61c674b73b4def7a2f08552aa1694a47593af438827be944b6.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Feb 2025 09:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Your Trump 2.0 Questions, Answered [SUBSCRIBER-ONLY]</title>
+      <enclosure url="https://n2.kemono.cr/data/4a/57/4a572765aa5d3fca40cb240f422523759b080523fa8bf2730f09fea9cb3eaf18.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Feb 2025 09:00:09 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Your Trump 2.0 Questions, Answered [SUBSCRIBER-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/84/42/844222cd9dcba0f49f4b5e26983abe716f4630dafe8b3142f0931e3bb4568762.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Feb 2025 09:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>TikTok v. Garland</title>
+      <enclosure url="https://n2.kemono.cr/data/90/28/9028dab25d789bc86285ba2ca23d195efbf580bdd06b175a73482c258c58dcb8.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Jan 2025 09:00:10 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>TikTok v. Garland</title>
+      <enclosure url="https://n1.kemono.cr/data/98/57/9857c5019964a69bcf907ef68180e23d57e5df3c21cd871a0bb0fd69ede2a86c.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Jan 2025 09:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Murphy v. NCAA</title>
+      <enclosure url="https://n2.kemono.cr/data/7a/ef/7aefa9a9ab816a9d71fdc0b2a0465947e745010df86a6fd0ba6cdc7407c10821.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Jan 2025 09:00:10 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Murphy v. NCAA</title>
+      <enclosure url="https://n4.kemono.cr/data/4c/17/4c17cdc0cbe326b1e2d8e161f834a212dfababfe4907b1745ac441f24a9ae8c8.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Jan 2025 09:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>5-4 x Know Your Enemy: Trump 2.0 and the Courts</title>
+      <enclosure url="https://n1.kemono.cr/data/fc/3f/fc3f01131b2356d481047d7bdcfaa5bbd5318fbe109ddc1e8380655b3e2e41c8.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Jan 2025 09:00:07 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>5-4 x Know Your Enemy: Trump 2.0 and the Courts</title>
+      <enclosure url="https://n2.kemono.cr/data/c3/28/c328b4dbeb005a3377d539ac9185d200ddfb07ed10aa9361e9bbe98e3099bee3.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Jan 2025 09:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The 2024 5-4 Giving Guide</title>
+      <enclosure url="https://n2.kemono.cr/data/3e/d3/3ed3a04bcb2b44f15255a3c05d9bc076587eb96a188e605c965981b71ff271a3.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Dec 2024 09:00:41 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The 2024 5-4 Giving Guide</title>
+      <enclosure url="https://n4.kemono.cr/data/61/c9/61c92bb3be7349441e0798de47240b7c442edf7d31786b9273633f4ec38b2bd8.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Dec 2024 09:00:09 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Holiday Extravaganza: Drake, TikTok, and the Clean Girls [SUBSCRIBER-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/75/76/75760824c8c4ecc6570fd2aa59baab501b9ce5a9efd13580603d1386989d8e65.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Dec 2024 09:00:23 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Holiday Extravaganza: Drake, TikTok, and the Clean Girls [SUBSCRIBER-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/58/76/58761ccaecf70f73238c2c6b4a656e035d6309ec766e40e7067160bfb49fead2.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Dec 2024 09:00:08 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Illinois v. Wardlow</title>
+      <enclosure url="https://n2.kemono.cr/data/4e/e7/4ee7a12ac746b23616e58096633dd28f62cbfd4fdaa65f12f910129b7b969838.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Dec 2024 09:00:20 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Illinois v. Wardlow</title>
+      <enclosure url="https://n3.kemono.cr/data/08/4e/084eb2276c762762c36f668aef03618a7de8e2ff3391803ed39fe337e98b2891.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Dec 2024 09:00:08 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>United States v. 95 Barrels of Vinegar </title>
+      <enclosure url="https://n4.kemono.cr/data/94/87/9487d408fc5207c7cb50b4d136f16f2dc8ec65127e5358a06a33f56a0ee1a247.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Dec 2024 09:00:09 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>United States v. 95 Barrels of Vinegar</title>
+      <enclosure url="https://n4.kemono.cr/data/3c/c6/3cc6a49cdac79bd67fdff18e0edcc1812a58b5f98928022ca50319a001861c76.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Dec 2024 09:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Small Dick Durbin Energy [SUBSCRIBERS-ONLY]</title>
+      <enclosure url="https://n2.kemono.cr/data/f8/bb/f8bbbe0109e9d57ea7895536e41acd167500db9749638333519f17c7e7616ebd.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Nov 2024 09:00:22 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Small Dick Durbin Energy [SUBSCRIBERS-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/3b/83/3b83587309eef25e9df1d4b1a179540fa0889e2945e0e361ab20bf955dd6214c.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Nov 2024 09:00:11 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>First as Farce, Then as Tragedy</title>
+      <enclosure url="https://n4.kemono.cr/data/37/be/37bed55ae9b6349ad3c1ec30cc99f67d026c9cb07ad7caf4beeb986a6715757a.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Nov 2024 09:00:21 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>First as Farce, Then as Tragedy</title>
+      <enclosure url="https://n4.kemono.cr/data/3b/b5/3bb5dc12cb62bd42bf0454b8cf62050b550e5ed03dfab9bc62eeff95d257ef79.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Nov 2024 09:00:07 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Movie Review: My Cousin Vinny [SUBSCRIBER-ONLY]</title>
+      <enclosure url="https://n1.kemono.cr/data/9f/3f/9f3f796a58aae92800d8f3033435599e6b76f0baf4a496d9c164082fab09e908.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Nov 2024 09:00:42 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Movie Review: My Cousin Vinny [SUBSCRIBER-ONLY] </title>
+      <enclosure url="https://n2.kemono.cr/data/14/7e/147eda0140653cc39d241cb879921bf81dadfe298f3d10e8c7edaed683713218.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Nov 2024 09:00:09 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Elon Musk’s War on Workers</title>
+      <enclosure url="https://n2.kemono.cr/data/a5/b3/a5b37c6de6f36d982b90b1986ed0cf3a5a4521f4ee7e46171f74a93f288ae31d.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Oct 2024 08:00:21 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Elon Musk’s War on Workers</title>
+      <enclosure url="https://n2.kemono.cr/data/26/23/2623d6516527539d4bf654098b49b14e869a1d6c90cdedaa93d5b381e9d1a840.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Oct 2024 08:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Coming Battle Over Reproductive Rights</title>
+      <enclosure url="https://n1.kemono.cr/data/f6/c7/f6c7818d2d29c4cf2aaf4edf0e7c807a53fe85b1f17a3f9944407eca19972daf.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Oct 2024 08:00:10 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Coming Battle Over Reproductive Rights</title>
+      <enclosure url="https://n1.kemono.cr/data/26/fb/26fb07548e6492ad637e88371849a0a68218af5c3a9d791f644bf604e403f271.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Oct 2024 08:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Year Ahead for Trans Rights (SUBSCRIBER-ONLY)</title>
+      <enclosure url="https://n2.kemono.cr/data/3f/51/3f516c805e36e4d3a7c6c824260a33ec1897087ea7ab7f9ea7bff25197b4650b.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Oct 2024 08:00:48 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Year Ahead for Trans Rights (SUBSCRIBER-ONLY)</title>
+      <enclosure url="https://n4.kemono.cr/data/54/57/54574e8db8c4a076bd3a457b2c240c2781bb1ba23d0f07d6e06d59bfe319a8b8.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Oct 2024 08:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Mackenzie v. Hare</title>
+      <enclosure url="https://n1.kemono.cr/data/7b/5a/7b5a4cdfd1b607363d3eb275aab5c4895958013f89cc20bb9c06a463a2b7bb1d.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Oct 2024 08:00:36 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Mackenzie v. Hare</title>
+      <enclosure url="https://n3.kemono.cr/data/62/61/626184b4f64dd184a63be08e4007c5f7f4ecf657fbb74c8e544b4c609ed8c92d.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Oct 2024 08:00:06 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>2024-2025 Supreme Court Term Preview</title>
+      <enclosure url="https://n1.kemono.cr/data/dc/bd/dcbdfdf1cd8cd3ea55a24dbf27e86707822d82f16d3dc77636f8b28adb10e149.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Oct 2024 08:00:28 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>2024-2025 Supreme Court Term Preview</title>
+      <enclosure url="https://n1.kemono.cr/data/32/ff/32ff284d5f3a379931cab0c33d42a2e2aa619b0fcfc9dcbcf4556eb9ffad4169.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Oct 2024 08:00:10 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Roberts One-Step (SUBSCRIBER-ONLY)</title>
+      <enclosure url="https://n1.kemono.cr/data/56/25/56251eadb35e0bac8b6172cc72ead65ce838619a85d7140d7e300cd7385b1ee1.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Sep 2024 08:00:19 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Roberts One-Step (SUBSCRIBER-ONLY)</title>
+      <enclosure url="https://n2.kemono.cr/data/b2/c7/b2c7f15be4c0d2a839bcb326ceda3ca4554e9a7f69d65eadad403593be1274bd.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Sep 2024 08:00:07 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Securities and Exchange Commission v. Jarkesy</title>
+      <enclosure url="https://n1.kemono.cr/data/10/2c/102c9fc188146112deeee2a30b9a45058c88b4f6eb09314be753446b03b77227.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Sep 2024 08:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Securities and Exchange Commission v. Jarkesy</title>
+      <enclosure url="https://n4.kemono.cr/data/16/3c/163ceac583f4c95e3a1c31e711d178831701c9bff93802d29e815fc06a3ce375.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Sep 2024 07:47:13 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>United States vs. Stanley</title>
+      <enclosure url="https://n1.kemono.cr/data/bd/f1/bdf19b4cd637caadc05bb7effb791e6e1190ad56b46a0cc9c409daf67b978832.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Sep 2024 13:03:42 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>United States v. Stanley</title>
+      <enclosure url="https://n2.kemono.cr/data/17/8a/178a517c656820bac9658fded0d4c9de15f8d8e8a420202d69f80e5460bad90d.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Sep 2024 12:55:51 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Welcome to Law School 2024</title>
+      <enclosure url="https://n3.kemono.cr/data/ae/13/ae13c078ce29cf11625652dbf7878dcfab3b578af8e69fb9baa2caa1a4fdfba4.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Sep 2024 18:01:52 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Welcome to Law School 2024</title>
+      <enclosure url="https://n3.kemono.cr/data/ac/c4/acc4326af2d18bd4b15455376642a67ba250d1fa0ae975023c6e9fc116b49168.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Sep 2024 08:00:16 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Biden, Harris, and the Future of the Court Reform (SUBSCRIBER-ONLY)</title>
+      <enclosure url="https://n4.kemono.cr/data/da/70/da70b359e8b959151175a974028171f27112294ce1018376e072eccdecc0eea9.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Aug 2024 06:10:29 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Biden, Harris, and the Future of Court Reform (SUBSCRIBER-ONLY)</title>
+      <enclosure url="https://n2.kemono.cr/data/a3/3d/a33d98b1479d80ba09f5545e32ff575b579c309a9df06cefa2ecbd5fb96bc58b.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Aug 2024 05:54:06 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Fischer v. United States</title>
+      <enclosure url="https://n2.kemono.cr/data/e1/db/e1db63c5a916858b7f82436ac79787eae71672bcd184312b3d85a0066f34267d.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2024 05:14:12 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Fischer v. United States</title>
+      <enclosure url="https://n4.kemono.cr/data/1b/5b/1b5bfa8a53179b9e8fd708506b51456f02d89aaff68daebcd9e1c7b4c741b686.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Aug 2024 05:00:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Grants Pass v. Johnson</title>
+      <enclosure url="https://n3.kemono.cr/data/41/4f/414f0fb935460ba60fb214cd1d1335b897bec48d9c0b9650f72a21dac841c936.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Aug 2024 05:17:11 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Grants Pass v. Johnson</title>
+      <enclosure url="https://n1.kemono.cr/data/a4/3f/a43f952c82db6a7d29f4fdf8a84f338e255a1d62dca88d87651368c079dc7757.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Aug 2024 04:47:48 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Loper Bright Enterprises v. Raimondo</title>
+      <enclosure url="https://n3.kemono.cr/data/db/db/dbdb04a6274c4c8b8ca93fe66b99790e47327560089ebc001a21ef7ed86135f6.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Jul 2024 08:00:29 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Snyder v. United States</title>
+      <enclosure url="https://n4.kemono.cr/data/e1/f4/e1f4dffd7921744ff7a6c16b2618b4204b323975efd71ab80e0ec4741fa48edf.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jul 2024 08:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>United States v. Rahimi</title>
+      <enclosure url="https://n4.kemono.cr/data/cd/86/cd86f716dbb349b57314c74386dcebc0af141a9f85ce6dd0ae4a803bffb77419.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Jul 2024 08:00:52 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>United States v. Rahimi</title>
+      <enclosure url="https://n2.kemono.cr/data/d6/9f/d69f59698e9b9c3019f8709cce6e8538dddb9e90943368e3f6aa0faf645e28f5.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Jul 2024 08:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Trump v. United States</title>
+      <enclosure url="https://n4.kemono.cr/data/9c/6a/9c6a8c5f06f793207777e3438363af6001a781f04ad7c10b61916dd2e84905bf.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Jul 2024 22:20:52 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Garland v. Cargill</title>
+      <enclosure url="https://n3.kemono.cr/data/dd/7f/dd7f402f0ef2258661908ad00d317f601da1447095d2e009f473ac62b92d6e83.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Jun 2024 08:00:40 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Alexander v. South Carolina NAACP</title>
+      <enclosure url="https://n3.kemono.cr/data/62/8a/628ab8afaa1694f50b7d68e1572cbe3917ca758c25da15747ce2d1b23230ac72.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Jun 2024 08:00:52 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>"The Constitutions Includes Everybody" Live at Harvard Law School</title>
+      <enclosure url="https://n2.kemono.cr/data/2a/d9/2ad93a65ae5cddaa5c802147c89b45644bbc2641f5206be07406d4bdf200cbce.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Jun 2024 08:00:12 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>"The Constitutions Includes Everybody" Live at Harvard Law School</title>
+      <enclosure url="https://n3.kemono.cr/data/7a/6d/7a6d58c12b9723c9cf8b2778673e673a9814084d5779d01eb0752910ce77a338.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Jun 2024 08:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Justice Alito's Red Flags</title>
+      <enclosure url="https://n4.kemono.cr/data/cc/aa/ccaa293feae8e0429d9d8b39778176349afd017254fa5bd86158a37e85cdb209.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Jun 2024 08:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Justice Alito's Red Flags</title>
+      <enclosure url="https://n3.kemono.cr/data/a7/96/a79696765ace4f93959e46465a5a28866a23065c3f54fa7ec800be139e0db6c8.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Jun 2024 08:00:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Arizona v. Navajo Nation</title>
+      <enclosure url="https://n3.kemono.cr/data/42/0a/420ad55a6bd95b18d63be8c44efa515864563ca063c2691ad720a30b91380a9e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 28 May 2024 08:00:14 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Maryland v. King</title>
+      <enclosure url="https://n2.kemono.cr/data/6d/80/6d80abf9fb0f68413783766d3e671aeac701bec19132e84a45cb5f48814d1c29.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 21 May 2024 08:00:40 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The 2024 Mailbag Episode</title>
+      <enclosure url="https://n3.kemono.cr/data/2a/ad/2aadf78481a3f03f2533733bffe1199eb782e426c43da89eac9f8da7bdb360a6.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 May 2024 08:00:16 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The 2024 Mailbag Episode [PATREON-ONLY]</title>
+      <enclosure url="https://n1.kemono.cr/data/30/2d/302df15b09875cd4b26360dc71248d79fe3807f348feaf34edc4369875c856f4.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 May 2024 08:00:07 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Free Rhiannon! Campus Protests and the First Amendment</title>
+      <enclosure url="https://n3.kemono.cr/data/cc/d3/ccd37fd6d8bc6c7684da8ed41c8ad16ed197734f568dc9af8235ccbea825bba2.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 07 May 2024 08:00:06 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Hans v. Louisiana</title>
+      <enclosure url="https://n3.kemono.cr/data/ed/91/ed918ff6bf6e02e0c7ddf245f25e85432d962177308c712c72b5ea62ea62c9c7.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Apr 2024 08:00:50 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Retire, Sonia</title>
+      <enclosure url="https://n1.kemono.cr/data/ea/60/ea6022f97ea2de11ee0afbcace53bdfe8813493b366e259eaf654e7cadefad5c.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 08:00:24 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Retire, Sonia</title>
+      <enclosure url="https://n4.kemono.cr/data/12/61/126175557fc9062783e28d5e730e21ad063d850d63e8e11bb1867fc238cd37ec.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Apr 2024 08:00:06 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Holder v. Humanitarian Law Project</title>
+      <enclosure url="https://n4.kemono.cr/data/1d/49/1d4993b31f5f555d5205265b633b3b9edf95079b59d07a6c8fcfed87bcd23c7b.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Apr 2024 08:00:59 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The (Constitutional) Crisis at the Border  [PREMIUM ONLY]</title>
+      <enclosure url="https://n2.kemono.cr/data/68/1b/681bc626ad8a657b0adf4de0f3aef3a3cdb0169b784caa28360074114a88c4c8.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Apr 2024 14:09:16 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The (Constitutional) Crisis at the Border</title>
+      <enclosure url="https://n4.kemono.cr/data/ff/26/ff26a8f9ff5bf53bcff61de818bb357086ce621476e24e8e30ceffa1b4ff250e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Apr 2024 08:36:46 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>United States v. Jones</title>
+      <enclosure url="https://n2.kemono.cr/data/94/f7/94f7f27808f849cd506e0143a041a204d4a6fddbd176c01f8ba487e930e3c59d.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Mar 2024 08:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Illinois v. Caballes</title>
+      <enclosure url="https://n4.kemono.cr/data/97/0f/970f6c5e22ac77e8e15857ff1012c328673a8e6720762ca28c375319d7025b0a.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Mar 2024 10:00:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Trump v. Anderson</title>
+      <enclosure url="https://n2.kemono.cr/data/3f/ea/3feabd8d008be6ab0d9742f3df11d6ca44fe85a39fde673892fc3e93defaae92.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 07 Mar 2024 09:03:24 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>How to Teach Constitutional Law</title>
+      <enclosure url="https://n3.kemono.cr/data/b8/fa/b8fadd918dfadcd1c9d2005bb84c04c062af9312c7b11545f6939270dcf4f90e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Mar 2024 09:00:46 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>How to Teach Constitutional Law [PREMIUM-ONLY]</title>
+      <enclosure url="https://n1.kemono.cr/data/7e/ee/7eeef4c9cfcb9a36fbe896241c41b0d6fcf8f8c0884ddb865d1aab4dd2418443.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Mar 2024 09:00:06 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Nixon v. Fitzgerald</title>
+      <enclosure url="https://n4.kemono.cr/data/e7/6d/e76d85f007bc96ef25549b239d97c33957d6841780fabb82bb4fe707ff36a781.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Feb 2024 09:00:21 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Maryland v. Shatzer</title>
+      <enclosure url="https://n2.kemono.cr/data/f0/85/f085d35e7be0b8b9ae16fce56e05c7b7ae608b7123428a73f2602ff765e5161e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Feb 2024 09:00:37 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Federalist Society, part 4: How to Fight Back</title>
+      <enclosure url="https://n4.kemono.cr/data/8e/23/8e239eb15d72bc8e05b9f895861d73bef2a9bd76eb2d94d359495cdef13cdfa8.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Feb 2024 09:00:56 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Federalist Society, part 4: How to Fight Back [PREMIUM-ONLY]</title>
+      <enclosure url="https://n1.kemono.cr/data/de/fb/defbd639dd3807b83616b09797388fb6dbb1208a8b4857f825c8f0ba4005f51f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Feb 2024 09:00:07 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Federalist Society, part 3: The Spoils</title>
+      <enclosure url="https://n4.kemono.cr/data/43/de/43de26ffca7d1eef500eb4b4ad4880db350b5c8d076b2a1a72587802fd644ebe.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Feb 2024 09:00:13 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Federalist Society, part 2: The Debate Club</title>
+      <enclosure url="https://n1.kemono.cr/data/75/57/755717275c35559e09cf1a10ea4b680912e4218ea0b6cdd499ed1e2e7320dae3.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Jan 2024 09:00:18 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Federalist Society, part 1: Immodest Origins</title>
+      <enclosure url="https://n2.kemono.cr/data/22/3a/223a60fd19ed2453b682d18490b7b3c4c398daba8db279cc0a5c33b2b0e6481f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Jan 2024 09:00:53 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The 5-4 Giving Guide 2023</title>
+      <enclosure url="https://n3.kemono.cr/data/4f/42/4f420d5b60fbcbb1e40bcae41cd31135e5f4f12fcfe7683c1b43e185f016f05c.mp3" type="audio/mpeg"/>
+      <pubDate>Fri, 22 Dec 2023 09:00:28 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>How to Lose Your Job by Supporting Palestine</title>
+      <enclosure url="https://n4.kemono.cr/data/21/43/2143d4fe5963dd505b879ae666a83cd95f9900f990be996988439c546af9b093.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Dec 2023 09:00:22 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>How to Lose Your Job by Supporting Palestine [PREMIUM-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/a4/ea/a4ea932fcde39921047515ca41da318e57cdc82f90216f28771220b8f17cbb32.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Dec 2023 09:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Epic Fail! Constitutional Amendments That Didn't Make the Grade</title>
+      <enclosure url="https://n2.kemono.cr/data/9a/94/9a942a6f843281e727045459f22c06fc8ef0271bad01d98aed69eeeab1fabcb4.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Dec 2023 09:00:06 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Epic Fail! Constitutional Amendments That Didn't Make the Grade [PREMIUM-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/49/28/492896dd05d03ccf43b8d5c2bd0d8b1023fa7c972d70f2fc0167fb8d14e28223.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Dec 2023 09:00:06 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Glacier Northwest, Inc. v. International Brotherhood of Teamsters</title>
+      <enclosure url="https://n4.kemono.cr/data/e1/0c/e10ce211c819a1ca1aed01be0ceeb0c55ed7aa2beb220a79ea76278e16bae35c.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Dec 2023 09:00:41 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Abe Fortas: The Justice Who Walked So Clarence Thomas Could Run [PREMIUM-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/63/42/63427389a4d32fe92d067139165c054de92a7c2c6ed1b46b7bedfa24351ac9b1.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Nov 2023 19:36:33 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Abe Fortas: The Justice Who Walked So Clarence Thomas Could Run</title>
+      <enclosure url="https://n4.kemono.cr/data/23/36/233615acc49be79ed45a31cc0d709cc192711d510b7f568a8d2e2a9d94b1d6ba.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Nov 2023 09:00:30 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Richardson v. Ramirez</title>
+      <enclosure url="https://n1.kemono.cr/data/eb/00/eb00aed27aad943b129cb96cc9e6142f39bdd602adac1a9f2682750aff58e1da.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Nov 2023 09:00:20 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Schenck v. United States</title>
+      <enclosure url="https://n2.kemono.cr/data/eb/a1/eba1271e12bc033571987e305e80e554e6d9a8893e23acd1d795758e8b770249.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Nov 2023 09:00:49 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>A Note From Rhiannon</title>
+      <enclosure url="https://n2.kemono.cr/data/47/11/47117549f4b191cb3fae82db8c8f307210dfe2d5fd6018e0224e4077375ba808.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Nov 2023 12:00:54 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Legally Blonde</title>
+      <enclosure url="https://n2.kemono.cr/data/e8/45/e8456f9cc2de4116cf19551d4e6fdd08dd23670dc7d6680e6123f8b65f8846d5.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Oct 2023 08:00:58 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Legally Blonde</title>
+      <enclosure url="https://n1.kemono.cr/data/4b/bf/4bbf46a3d98637cad91b3866fb0fa67446df5e692eda80b74ddce637f35fa2ab.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Oct 2023 08:00:04 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Palestine Legal: "The Great Difference a Movement Lawyer Can Make" [ENCORE]</title>
+      <enclosure url="https://n4.kemono.cr/data/c1/2a/c12a7db45c6e02c9e38bbef095cda2c43011243c33d91b914154811848451a07.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Oct 2023 08:00:40 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Geduldig v. Aiello</title>
+      <enclosure url="https://n2.kemono.cr/data/8e/c8/8ec8e98451a3af4446e0751f093d28f34b2331c4dbebbe23cb96f27f0f6f4f35.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Oct 2023 12:04:35 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Berghuis v. Thompkins</title>
+      <enclosure url="https://n2.kemono.cr/data/2b/ba/2bba716d88e23a5cbdddf081f7036189b9b2e7f27a337bba965a3637e0ff353e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Oct 2023 08:00:06 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Southern Manifesto</title>
+      <enclosure url="https://n1.kemono.cr/data/c2/42/c24276a41af3ef2557983c1ba94137f2f7a3d3ee529e394d2427cf8a5f9a8c02.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Oct 2023 10:00:55 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Southern Manifesto [PATREON-ONLY]</title>
+      <enclosure url="https://n1.kemono.cr/data/a3/8d/a38dd7af1cb36c7347b3e203387a6a31379eb6ba5745d2e8c8789400bc4a7003.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Oct 2023 10:00:04 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Hampton v. United States</title>
+      <enclosure url="https://n2.kemono.cr/data/64/08/640846a89b6eec33f50834f3981d8aff272ae926d5abceb6633688d0ff6f2424.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Sep 2023 08:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>2023-2024 Term Preview with Chris Geidner</title>
+      <enclosure url="https://n3.kemono.cr/data/55/5b/555b0612126aee43be49cde39b5df9e7e4bbafacc126a02f9c8685d8c1438ff3.mp3" type="audio/mpeg"/>
+      <pubDate>Wed, 20 Sep 2023 18:37:10 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Your Questions: Jury Nullification, Law School Reform, and More </title>
+      <enclosure url="https://n3.kemono.cr/data/48/07/4807af30cea61eba1b8f0aa4f63c6469e021aa56f1976a778a780216d52acb29.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Sep 2023 08:01:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Your Questions: Jury Nullification, Law School Reform, and More</title>
+      <enclosure url="https://n2.kemono.cr/data/00/0d/000d21330426f3669c31e21f0908ad6e1d2045b9b289349f4c89820eb529a829.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Sep 2023 08:00:52 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Welcome to Law School 2023</title>
+      <enclosure url="https://n3.kemono.cr/data/59/8d/598dac77269875a51810004b09dc1f70a8b20ef55aef8aa29fccfd625b94c2fc.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Aug 2023 08:00:57 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Twisted Mind of Clarence Thomas</title>
+      <enclosure url="https://n2.kemono.cr/data/73/62/7362fe2126213b44c22e14cd64319218ad251c3281fe9904e53a6e9c822ab193.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Aug 2023 08:00:46 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Twisted Mind of Clarence Thomas [PREMIUM-ONLY]</title>
+      <enclosure url="https://n1.kemono.cr/data/59/16/59167d6433790d2ffd23ccf30ba6786979867f5bd029328fd23fccede9f5ddc4.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Aug 2023 08:00:07 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Students for Fair Admissions v. Harvard</title>
+      <enclosure url="https://n2.kemono.cr/data/55/f8/55f845f46cc1e518988bde0e9ade07fe10117e636c10ef4dcf89bd472b31565d.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Aug 2023 08:00:15 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Harisiades v. Shaughnessy</title>
+      <enclosure url="https://n1.kemono.cr/data/0a/ef/0aefad6f144d3ea314003623d8e0d6dedac087349f113d9ff93560c4db6eaef7.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Aug 2023 08:00:03 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>2022-2023 Term Reflections</title>
+      <enclosure url="https://n3.kemono.cr/data/27/4b/274bdd4ec1dbfaf09df9f123f8bde38e436e7d34ab5676c1b08c9afb8f2e3a65.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Aug 2023 08:00:58 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>2022-2023 Term Reflections [PREMIUM]</title>
+      <enclosure url="https://n4.kemono.cr/data/78/0d/780d43f596f3df4248261b21486179740f94cebf0eb70f7978311df972b605fb.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Aug 2023 08:00:07 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>DeShaney v. Winnebago County Department of Social Services</title>
+      <enclosure url="https://n3.kemono.cr/data/f1/16/f1161aee24abf9676814021aa5387fcfd51c3ab13dd461dc580e1d099d5f27d7.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Jul 2023 08:00:08 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Biden v. Nebraska</title>
+      <enclosure url="https://n1.kemono.cr/data/f4/e8/f4e8dd3c698125bbc688c99b05311ae61fbc7f44dd4572b26d9efd69f6ba9dc3.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Jul 2023 08:00:27 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>303 Creative LLC v. Elenis</title>
+      <enclosure url="https://n3.kemono.cr/data/46/19/461955c668dcbc23f6fe109091adf17ba3c9ecb83e6967b7955b5036e1b1c513.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Jul 2023 08:00:14 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Sackett v. EPA (Sackett II)</title>
+      <enclosure url="https://n3.kemono.cr/data/be/6a/be6acbcb38e45d54d18ee4ba0412a3910d51b52f9ad9a087952d8053a692f675.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jun 2023 08:00:04 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Protecting Trans Rights, with Erin Reed</title>
+      <enclosure url="https://n2.kemono.cr/data/06/5d/065df42c81170ce4f0f1c63c93f97d113bcdca17dc7210baa1b545fd312396ac.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jun 2023 12:54:10 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Protecting Trans Rights with Erin Reed [PATREON-ONLY]</title>
+      <enclosure url="https://n2.kemono.cr/data/e0/1b/e01b964b1d185168f160be21c6d72a02fcafea3c50d0add6dd4c0fe7e9ae25e2.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jun 2023 08:00:03 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>American Ship Building Company v. National Labor Relations Board</title>
+      <enclosure url="https://n4.kemono.cr/data/26/28/26282cfe45d066cc6381e1ca6b5603134cb90e0d9893ca013862a82927670141.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Jun 2023 08:00:18 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Sierra Club v. Morton</title>
+      <enclosure url="https://n2.kemono.cr/data/f5/60/f560a76c2650e0bfbe153d2979f3d0537dce5abcd4572a942fc524958b8a6bd9.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Jun 2023 08:00:54 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Fall and Rise of the Death Penalty [PATREON-ONLY]</title>
+      <enclosure url="https://n1.kemono.cr/data/31/e5/31e5fd8dd1b5ebb536da69103d9c1814056bc5123693b9295b8629ec326ca287.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 30 May 2023 08:00:02 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Fall and Rise of the Death Penalty</title>
+      <enclosure url="https://n2.kemono.cr/data/01/0f/010f5bf5dce90839659bb1182db882228dd4ac6fb044d746300a10ecceb4d0d4.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 30 May 2023 08:00:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>United States v. O'Brien</title>
+      <enclosure url="https://n2.kemono.cr/data/0f/8f/0f8fe4fa6bf9e52162559b4300dd9085e61faaeee5d2350c52ab6bfad6fda867.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 23 May 2023 08:00:12 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Shadow Docket with Steve Vladeck</title>
+      <enclosure url="https://n4.kemono.cr/data/99/aa/99aa147a2f94d746a4bfed1c83d5f414ef6ab91106bdb5d5dad96955329d35ea.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 09 May 2023 08:00:50 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Palmer v. Thompson</title>
+      <enclosure url="https://n2.kemono.cr/data/94/ed/94ed64adef1ae69ad83074e80008ec522e514f9d1c9547b8638197155659853c.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 02 May 2023 08:00:40 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Thomas/Crow Affair</title>
+      <enclosure url="https://n3.kemono.cr/data/f3/c0/f3c03f24dffd6461005668ba129f6ba96334e925fa19b08546ce1d8a9b5cefd8.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Apr 2023 08:01:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Thomas/Crow Affair</title>
+      <enclosure url="https://n1.kemono.cr/data/66/e0/66e098f1d2b493a23676ff8f7962fe36965b793620867cc2d486b9a62993706f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Apr 2023 08:00:55 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Ewing v. California</title>
+      <enclosure url="https://n4.kemono.cr/data/66/72/6672b5699b8d418e0207cae96672d54c14c141601b627631bb69a396526f0ab5.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Apr 2023 08:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Noted Segregationist William Rehnquist [PATREON-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/53/86/53868d4a695f4da81cad5ea941176d3026a8915cb4b74d0cd5f4c71442367203.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Apr 2023 08:00:59 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Noted Segregationist William Rehnquist</title>
+      <enclosure url="https://n2.kemono.cr/data/f1/86/f18683bfa5c8e599d1601e0870adb1beddcd8c67ad89d14da337afb27ac17340.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Apr 2023 08:00:35 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Cruzan v. Missouri Department of Health</title>
+      <enclosure url="https://n1.kemono.cr/data/06/76/0676ee7362d582994f251974950c395316214afdb25ce9e10ce4665f523bf7c5.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Apr 2023 08:00:42 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Palestine Legal: "The Great Difference a Movement Lawyer Can Make"</title>
+      <enclosure url="https://n3.kemono.cr/data/4f/5c/4f5ccd3db6b2251489532212f587c9320e1262e4acc96f409f7365da87ffa24d.mp3" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Mar 2023 08:00:49 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title> Palestine Legal: "The Great Difference a Movement Lawyer Can Make" [PATREON-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/77/62/77627055eabcb04abc92d293976b61d53a7dd0378c9efa22b4a7d4f6b035f11e.mp3" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Mar 2023 08:00:02 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>5-4 x Bloc Party: Michael on How the Dems Flopped on Debt Relief</title>
+      <enclosure url="https://n2.kemono.cr/data/b4/05/b40522e01735c85af1fd875fdd0018907429b6ef177b17620c9325d305bfc6c0.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Mar 2023 08:00:11 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Boyle v. United Technologies Corporation</title>
+      <enclosure url="https://n1.kemono.cr/data/9a/a2/9aa28fc3ec8a2d4079677bedc06e732bf5be440265bf5858881f86fe644e96c5.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Mar 2023 08:00:36 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>"When I say EMPTY you say SKULL" - Live in Austin</title>
+      <enclosure url="https://n1.kemono.cr/data/54/3d/543d11dd309279f94d1df9b5809811952f8b53fd5bb03bbf00c00525144098cd.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Mar 2023 08:00:41 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>"When I say EMPTY you say SKULL" - Live in Austin [PATREON-ONLY]</title>
+      <enclosure url="https://n2.kemono.cr/data/79/01/79013d2e58ad99d766410285b73a3b7bba619b594378514b60a4b225df8d29ce.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Mar 2023 08:00:02 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>In re Gault with Josie Duffy Rice</title>
+      <enclosure url="https://n3.kemono.cr/data/f5/73/f5736d7f4c17e3ae413a6bca60ece34b030491f6c184c980adbfc1beb9309606.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Feb 2023 09:00:48 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title> Prosecutorial Immunity, or "FTP" Means Prosecutors Too [PATREON-ONLY]</title>
+      <enclosure url="https://n1.kemono.cr/data/10/48/1048f0a67ca95e0b3bed1f53d8abb98d63d6f7ad4b19929451ec969eaaa22076.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Feb 2023 12:15:57 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Connick v. Thompson Encore</title>
+      <enclosure url="https://n4.kemono.cr/data/5c/b4/5cb44b5d7dedfda919542687337126e1dfd53a5a4b9c75c9d76f8c0eba5e966c.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Feb 2023 09:00:38 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>"Jones Day Made Trump" - Live at Harvard Law with David Enrich</title>
+      <enclosure url="https://n1.kemono.cr/data/a2/fa/a2fa9548fea0833c73f11770214984266234763b8cbb2685bb71eed31da50aff.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Feb 2023 09:00:16 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Korematsu v. United States</title>
+      <enclosure url="https://n1.kemono.cr/data/0c/c7/0cc711f455dd43e41dd1f7ca6accaf1e4e7d3c34770c92035fed231c90ebc090.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Jan 2023 09:00:19 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Your Questions Answered [PATREON-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/f9/fc/f9fcb5460493d7a3eb991b97cb9f6e6e912c76886b89d94994c2d8c1eb173272.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Jan 2023 09:01:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Your Questions Answered</title>
+      <enclosure url="https://n1.kemono.cr/data/32/44/324450c6ada44bdffa6d9d5c824ebeaddc6742657cbb4098a8a2f0fe4eb9d8af.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Jan 2023 09:00:32 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Giles v. Harris</title>
+      <enclosure url="https://n4.kemono.cr/data/72/59/7259ac808cd8e648f520d169ba9828f56ca60302e78c53cc47335bdc36d034f2.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Jan 2023 09:00:40 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>McDonnell v. United States</title>
+      <enclosure url="https://n3.kemono.cr/data/60/d5/60d51b206342547bda67cbdead4ea3f60f9177959ed00a48f9e81f4330fa070a.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Jan 2023 10:00:02 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The 2022 Five Four Giving Guide: More Ways to Help</title>
+      <enclosure url="https://n4.kemono.cr/data/1a/44/1a440dedd8fc4e1bd1340eadea75eac2bcc76fbdcaf07bcebbe365c673c24f2f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Dec 2022 09:00:20 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Pelican Brief</title>
+      <enclosure url="https://n1.kemono.cr/data/50/53/50533bed594544946d097dd197037a6e3a16cb95b3081e6411e797ec2725f1fa.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Dec 2022 09:00:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Sonia Sotomayor [PATREON-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/7d/9c/7d9c45fbe16af821bb42eba67d5e7471820d83c7cda2a0942b93b466908756b7.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Dec 2022 09:01:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Sonia Sotomayor</title>
+      <enclosure url="https://n4.kemono.cr/data/ac/18/ac188aab80e099102b20dd1e57d7d375430e03b4fa696b2fd48826ddf2ec88c1.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Dec 2022 09:00:49 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Glossip v. Gross</title>
+      <enclosure url="https://n1.kemono.cr/data/27/d8/27d8f14494aa13c020dee008c0e7dd512b19e7b6398373f4f175601b014cdcdf.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Nov 2022 09:00:45 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Utah v. Strieff</title>
+      <enclosure url="https://n1.kemono.cr/data/7c/62/7c62b94e86344a99496bedad7ab25bf5e30fc4e0d48c1b9534b121edee3c852a.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Nov 2022 09:00:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Public Defenders: "Incarceration Doesn't Make Us Safe" [PATREON-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/d6/0c/d60cc1161cebb8da86550622ea492ea81f0b2d28a86a2dc2913da26b44ae9f33.mp3" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Nov 2022 09:01:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Public Defenders: "Incarceration Doesn't Make Us Safe"</title>
+      <enclosure url="https://n3.kemono.cr/data/34/c7/34c7ddd05d92b713bc11c942bd6d9e83d7b7f3617c8dd3dd50849fb8b0ae6177.mp3" type="audio/mpeg"/>
+      <pubDate>Fri, 11 Nov 2022 09:00:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Samuel Alito</title>
+      <enclosure url="https://n2.kemono.cr/data/22/50/22506460db5debbb96f2a3d590f7b176d6fbd4b3c3e626777519a546ff04d50e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Nov 2022 09:00:39 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Samuel Alito [PATREON-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/7e/6b/7e6b1cfc94cc84faf54f30ef8b1ccbde001e2df88625ef50bf2564e0c9adb8aa.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Nov 2022 09:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Bowers v. Hardwick</title>
+      <enclosure url="https://n1.kemono.cr/data/42/87/4287b13a60bba18bc68ebd9d165ab487770de9abc7fc2cf58b8c70c23e9c5113.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Nov 2022 08:00:56 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Independent State Legislature Theory</title>
+      <enclosure url="https://n2.kemono.cr/data/be/54/be549708a4fad027456717b9064f2e0c98112eaace28fe301fa6c5ebc73ed27d.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Oct 2022 08:00:27 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Rhiannon Resigned and Peter Got Fired [PATREON-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/29/f1/29f1c3ebbdfec75364e20c169f5b3a0302ce21364ddc99a0a3b6938ff5d21a53.mp3" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Oct 2022 08:01:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Rhiannon Resigned and Peter Got Fired</title>
+      <enclosure url="https://n3.kemono.cr/data/55/47/55473d5b2b072df8308bf0884f7e9ffa7bf5abf1f67532bbb3b669c8be37ca3d.mp3" type="audio/mpeg"/>
+      <pubDate>Fri, 21 Oct 2022 08:00:39 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Legal Discourse and Our Discontents [PATREON-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/39/fb/39fb5f267920251364b628b3474742ac675d0bad70cf507fbabc5ab665e7c0db.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Oct 2022 08:01:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Legal Discourse and Our Discontents</title>
+      <enclosure url="https://n4.kemono.cr/data/ab/c1/abc1702a44772b671570f28fcfadc4ea23868fefa48e22c6bd246584e17cb8d0.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Oct 2022 08:00:25 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Tanner v. United States</title>
+      <enclosure url="https://n2.kemono.cr/data/2e/fc/2efcf928548ae048e597042b51c74cbd8152d7499e0a6128004d6335c2f0c333.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Oct 2022 08:00:53 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>2022-2023 Supreme Court Term Preview</title>
+      <enclosure url="https://n1.kemono.cr/data/57/04/570403e9265b983664ccdc05a5a67523df708bd61eaa23d5b4b5fe5d118afe64.mp3" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Oct 2022 08:00:50 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Ketanji Brown Jackson</title>
+      <enclosure url="https://n1.kemono.cr/data/b5/8a/b58accf9ad5c58957908db018d92ceb01239b8f1a746ebf6fc72977a1bd50135.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Sep 2022 08:00:45 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Ketanji Brown Jackson [PATREON-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/68/22/68222b34c94041b745ba4b746ae7652f2ea2adb9ac08d70dac8759193af3cf17.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Sep 2022 08:00:04 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Minor v. Happersett</title>
+      <enclosure url="https://n2.kemono.cr/data/37/fa/37fa5d143fd89b237dd28d2e14cd70d293f3f8f601b16fc196561801f0a05a6e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Sep 2022 08:00:02 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Vega v. Tekoh</title>
+      <enclosure url="https://n3.kemono.cr/data/73/4b/734b7cadf060ca3eafbfe007b708c7ba5deff309e8aaf43a8e7883fec1dc71cb.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Sep 2022 08:00:55 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Harriet Miers Gets Wrecked [PATREON-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/2b/c9/2bc9dddd3b6f2c966fe5f613c0decc7ad8da8e78c491128a546973cc7ed0eb74.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Aug 2022 08:01:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Harriet Miers Gets Wrecked</title>
+      <enclosure url="https://n4.kemono.cr/data/ec/f2/ecf2bd10de37651225fa11085a0900f66e159b1b409b7047744bc5f9878611ab.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Aug 2022 08:00:31 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>New York State Rifle and Pistol Association v. Bruen</title>
+      <enclosure url="https://n1.kemono.cr/data/f4/3d/f43dc7cdc85be6c18caba9ca17d6d3c20d631a40011be699498d266c7cefdb6b.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Aug 2022 08:00:22 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Oklahoma v. Castro-Huerta</title>
+      <enclosure url="https://n3.kemono.cr/data/9f/2c/9f2c27177eef92b69e5ec01b77ee5338289a315f9012f6ba4eeff0732fe11a68.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Aug 2022 08:00:30 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Free Speech, Cancel Culture, and the Court [PATREON-ONLY]</title>
+      <enclosure url="https://n2.kemono.cr/data/59/c7/59c7989c077af406be4f0ef986cb632744f47c25494b2dec1b5cdaf5a24d337d.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Aug 2022 08:01:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Free Speech, Cancel Culture, and the Court</title>
+      <enclosure url="https://n4.kemono.cr/data/c2/1e/c21e65c75331dc26ca3e286671d8ea3087d4debc2a8c2803b0c16fdb26731b33.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Aug 2022 08:00:49 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>"We can make Roe the law everywhere" - An Interview with Senator Elizabeth Warren</title>
+      <enclosure url="https://n2.kemono.cr/data/ac/f1/acf14939f53f5dfff35af7ca3626652ca7862fe36864ad92c62cba56a1db7aa1.mp3" type="audio/mpeg"/>
+      <pubDate>Thu, 28 Jul 2022 08:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>WTF Are The Dems Doing? with Jamelle Bouie</title>
+      <enclosure url="https://n2.kemono.cr/data/0a/fa/0afac1c48ad2fb055319914f034036ee0f8907681d841cfb653d8055529046c4.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Jul 2022 08:00:24 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Your Dobbs Questions Answered</title>
+      <enclosure url="https://n4.kemono.cr/data/40/21/402114f031012da59afded7a738fe4e129489fd5d0039a44b8cb37748b41bc0a.mp3" type="audio/mpeg"/>
+      <pubDate>Fri, 01 Jul 2022 22:15:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Emergency Episode: Roe Is Overturned</title>
+      <enclosure url="https://n4.kemono.cr/data/75/23/75233e66d9738725506daea6811e5a35a7210dbd35b081ba6ed18cdcf3a50421.mp3" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Jun 2022 22:27:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Egbert v. Boule</title>
+      <enclosure url="https://n3.kemono.cr/data/99/7a/997a1b524ad50ed18cbd6ab2e0636314f5dc814c934b714dd6eb558a4478d0e3.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Jun 2022 07:01:13 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>5-4 x Know Your Enemy: "Overturning Roe, Part One"</title>
+      <enclosure url="https://n4.kemono.cr/data/c6/c7/c6c7c9468aab0137dbdf032759c1073ffc6ae1a1fb072b924092221b7147d73f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Jun 2022 07:01:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Federal Election Commission v. Ted Cruz for Senate</title>
+      <enclosure url="https://n3.kemono.cr/data/af/24/af245187f7bea262f051b55956e19a3dabe892a5f61cb78de4e5e86b325a26ce.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Jun 2022 08:00:07 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Originalism, the Doctrine from Hell [PATREON-ONLY]</title>
+      <enclosure url="https://n2.kemono.cr/data/c7/4f/c74f0fda2d0aac857298e0bae380c1e51a300f03a9c4f655a9fa198b43bc5e92.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 31 May 2022 12:03:12 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Originalism, the Doctrine from Hell</title>
+      <enclosure url="https://n1.kemono.cr/data/0c/dc/0cdca25b392148310d00fe63acb8c9bd2c2d6bfa1efa1ad381b75b53f557c042.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 31 May 2022 08:00:29 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Whren v. United States</title>
+      <enclosure url="https://n4.kemono.cr/data/9b/af/9bafd8e1ba2fb4990045c412c4764f291d265d79d676faea49c2a946bed77d9f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 24 May 2022 08:00:30 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>United States v. Vaello Madero</title>
+      <enclosure url="https://n3.kemono.cr/data/77/45/77456c806fa7b74325f656b3dd6cea08c25eb0789bd99de948714ebc79965cf5.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 17 May 2022 08:00:53 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>5-4 Live in Oakland [PATREON-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/89/b4/89b40a4a329425da880b1124c536d5dc948a2d3bc88ccf51fbfc18e47c46edb6.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 10 May 2022 08:01:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>5-4 Live in Oakland</title>
+      <enclosure url="https://n2.kemono.cr/data/79/d2/79d2795382a4e32a3f25b755174cdffa290999d7fa7385bd1ce8c5d83241ad78.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 10 May 2022 08:00:02 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Dobbs v. Jackson Women's Health: The End of Roe</title>
+      <enclosure url="https://n4.kemono.cr/data/45/29/45292221d8ebaea17500feb3d83482f0e1fbad29fa04d58038565e308c33a1dc.mp3" type="audio/mpeg"/>
+      <pubDate>Wed, 04 May 2022 19:01:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Dobbs v. Jackson Women's Health: The End of Roe</title>
+      <enclosure url="https://n2.kemono.cr/data/c3/92/c3926c0fbfd6e96d3e585e9ae72fabefc77cdac0f8627253ec80c95ef826708d.mp3" type="audio/mpeg"/>
+      <pubDate>Wed, 04 May 2022 19:00:24 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Lassiter v. Department of Social Services</title>
+      <enclosure url="https://n1.kemono.cr/data/27/fe/27fe08181b5618028d7969c3705eb5d41fd8ccda6c240a18f20ade7ad5cce6a7.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Apr 2022 08:00:45 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Immigration and Naturalization Service v. Elias-Zacarias</title>
+      <enclosure url="https://n2.kemono.cr/data/e3/db/e3dbc225e93dea24d6ddbb22c6b6f83c634448940f51b8a0d119c0637f02996e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Apr 2022 08:00:59 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>How the Biden SCOTUS Commission Radicalized One Law Professor</title>
+      <enclosure url="https://n4.kemono.cr/data/55/96/55967b0475b95744b845da56894cfbc7d7d3c22db32e77896d5ac686d81ca55c.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Apr 2022 08:00:46 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>How the Biden SCOTUS Commission Radicalized One Law Professor [PATREON-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/99/94/9994ce8159bcd5cb33c1a233cf5dfe44e1f3777c3afc7858c0c6c0cf915abbb4.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Apr 2022 08:00:04 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Lorillard Tobacco Co. v. Reilly</title>
+      <enclosure url="https://n2.kemono.cr/data/27/2f/272f172a3bfadd49fb45cd1258c72c5d58738c3639be9a2bcdc756f26be3b0fd.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Mar 2022 08:00:02 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Strickland v. Washington</title>
+      <enclosure url="https://n3.kemono.cr/data/17/bc/17bcf7817e69509c9c8dd4290de19225d8ae1aa5adda34cce56362cfcba2cd51.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Mar 2022 08:00:02 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Civil Rights Cases of 1883 [PATREON-ONLY]</title>
+      <enclosure url="https://n2.kemono.cr/data/30/e1/30e1c478b7dfe099e4ea6bc4383faaaba91e78f815cc8e6f4bd09ee1ecb306be.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Mar 2022 08:00:04 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Civil Rights Cases of 1883</title>
+      <enclosure url="https://n2.kemono.cr/data/9f/26/9f26de1a9066c8b40bbc273981ad23181f51ed9695f73dc4948a8a018561c468.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Mar 2022 08:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>We Need To Talk About Ginni</title>
+      <enclosure url="https://n1.kemono.cr/data/a1/81/a1812157292b2401d0280f1b90c964408c12ffa63b14ae215fa7a189a80bce1c.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Mar 2022 09:00:45 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Merrill v. Milligan</title>
+      <enclosure url="https://n4.kemono.cr/data/3d/a2/3da2b3b40ce5615c240472e0ac8c912873daece152a8fa0f1faaf4659faa0e11.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Mar 2022 09:00:51 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Lochner Era [PATREON-ONLY]</title>
+      <enclosure url="https://n2.kemono.cr/data/06/08/0608aefcad0e1c1659fbf33b389ed54b7f02c8063e6f6b97382289f983a2e550.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Feb 2022 11:01:02 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Lochner Era</title>
+      <enclosure url="https://n1.kemono.cr/data/c9/f1/c9f14160c06d82a85157bfd1090ab46c769b41346cb0f0bc6a715241ca58b574.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Feb 2022 09:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Ingraham v. Wright</title>
+      <enclosure url="https://n2.kemono.cr/data/5c/ac/5cac3d72235f566d44fb441a9e804212b0e465ffe423abb184e3d02c4a7082a8.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Feb 2022 09:00:15 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Parents Involved in Community Schools v. Seattle School District No. 1</title>
+      <enclosure url="https://n4.kemono.cr/data/7b/b0/7bb0499647c3fa612631e7e52f5330d5d6bab1001401fb84f8167f4b809800f5.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Feb 2022 09:00:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Best Amendment (The Ninth)</title>
+      <enclosure url="https://n2.kemono.cr/data/ea/62/ea62a72b079b7662f49bf0e442d7d621e8fc34cca889176d74d8946456e09433.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Feb 2022 09:00:44 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Best Amendment (The Ninth) [PATREON-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/28/63/2863ab622e28a435fea99bcedfecbe87ee017534dc25c73397c2ca19b7bf6c9a.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Feb 2022 09:00:07 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>NFIB v. Department of Labor</title>
+      <enclosure url="https://n2.kemono.cr/data/fb/80/fb80dfcf0954a5bd71508f6a501952f90b9e491a2722ec64c63314d18df3c7ac.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Jan 2022 09:00:13 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Florida v. Riley</title>
+      <enclosure url="https://n3.kemono.cr/data/8c/15/8c1503f973a3fdc1931778acf6496a1305a7ef31e54873d60dee441e9131c4f6.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Jan 2022 09:00:18 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Return of the Rise and Fall of Roe v. Wade, Pt. 1</title>
+      <enclosure url="https://n1.kemono.cr/data/48/33/4833939777893d71095d76db6ae363b2948e99243c6d86de5598499102157099.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Jan 2022 09:00:17 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Return of the Rise and Fall of Roe v. Wade, Pt. 2</title>
+      <enclosure url="https://n1.kemono.cr/data/38/29/3829ac0af08a7a82fcc367778964828519e9152d3bd2cae17497406cbb3cb4d0.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Jan 2022 08:59:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The 5-4 Giving Guide: How to Help</title>
+      <enclosure url="https://n3.kemono.cr/data/42/95/42950df6bfe3789bcf2a1eb7713efeb85969e102785444f4c2decb1a645ce1a9.mp3" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Dec 2021 09:00:55 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Warren Court: 5 Out of 5 Stars</title>
+      <enclosure url="https://n2.kemono.cr/data/5d/4c/5d4ce6a9ada1f4602346551f82c23be8f2e7c6c0ef7a88323b42a33019e1c5eb.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Dec 2021 09:00:29 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Warren Court: 5 Out of 5 Stars [PATREON-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/a0/be/a0bea2e031d567e2be5af91332217bb6cc0635b0a93536ec87448e65c989233a.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Dec 2021 09:00:03 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Town of Greece v. Galloway</title>
+      <enclosure url="https://n2.kemono.cr/data/c6/03/c60313e3035ff5697f9156a6bb685d71990b0db0c8c15e8cc4d943e21954696b.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Dec 2021 09:00:56 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>We Had To Get Completely Ripped To Do An Episode About Robert Bork [PATREON-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/df/cd/dfcdb2cdd372646cb86b51ad9b7e955fe1ba2d6ad1e1638eeeb5aaa978031e2a.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Nov 2021 09:01:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Failed Nomination of Robert Bork</title>
+      <enclosure url="https://n2.kemono.cr/data/bd/25/bd255d8b8f7a49111f6ec0c16d341314255cd1383b82d732baf3c74b9597e50c.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Nov 2021 09:00:20 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Michigan v. Environmental Protection Agency</title>
+      <enclosure url="https://n3.kemono.cr/data/52/a8/52a8d806f19185c41d6e1733187cf88c631861756f06f19d1cb6045681f3d331.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Nov 2021 09:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>"This Is A Captured Institution" - An Interview with Senator Sheldon Whitehouse</title>
+      <enclosure url="https://n1.kemono.cr/data/ee/cf/eecf206613eab664d49a0c2c9e56036fba069476e35a3904da69511fe7ca1b3a.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Nov 2021 09:00:40 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>So You Want To Be A Public Defender</title>
+      <enclosure url="https://n4.kemono.cr/data/0d/c0/0dc0ef1ec0b4ed6e5d015fb95e710f512caeb36392c2d90f92d5b79abbd7db02.mp3" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Nov 2021 08:00:08 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>So You Want To Be A Public Defender [PATREON-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/55/0e/550e19ea777dd438ed2e949aa0dc45e1f431d051af822be1d978a6d1626842db.mp3" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Nov 2021 08:00:03 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Hamdi v. Rumsfeld</title>
+      <enclosure url="https://n3.kemono.cr/data/6c/c0/6cc0b29eae1126568e3f895986cc3093f2cb3788b3ad6b1b2755f2684607a587.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Nov 2021 08:00:50 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Younger v. Harris</title>
+      <enclosure url="https://n1.kemono.cr/data/27/f7/27f7893e0891fff3291946d659630d33f8413186c3dad40a2979d915f99a648b.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Oct 2021 08:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Justices Are Getting Defensive [PATREON-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/d2/2f/d22f2115bfd557be544a201bb40459288ca7aeab28f6d1fe0f01f86dfdce3124.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Oct 2021 08:01:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Justices Are Getting Defensive</title>
+      <enclosure url="https://n1.kemono.cr/data/ca/63/ca63d1a582db139a2e3d2195ce7ac81e9646b95558dc8fc0b4d2db9cbda2e2f8.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Oct 2021 08:00:56 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>2021-2022 Supreme Court Term Preview</title>
+      <enclosure url="https://n1.kemono.cr/data/a8/6f/a86fab6e81a631719c599d1b7462b6c2dda653928481b4059584e39ab78a945f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Oct 2021 08:00:26 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Nieves v. Bartlett</title>
+      <enclosure url="https://n2.kemono.cr/data/a9/e9/a9e99f588a7c6bbd8d8b3a6ea953a4cf54262dc6f5c8ebbd945d77760b7f902a.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 05 Oct 2021 08:00:57 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Adoptive Couple v. Baby Girl</title>
+      <enclosure url="https://n1.kemono.cr/data/d8/d0/d8d0f105b2ebd58cfae4024d51e4a1ba11f367e8092302071a1649d0b02a19c8.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Sep 2021 08:00:05 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Eviction Moratorium: A Perfect Storm of Conservative Bullshit</title>
+      <enclosure url="https://n1.kemono.cr/data/a3/72/a3723cbecaa055d2b726d0a91d8c86bde186fd2c2a052ed6e87bd0442455bbf6.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Sep 2021 08:00:51 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Eviction Moratorium: A Perfect Storm of Conservative Bullshit [PATREON-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/cd/fc/cdfca73828b11e25ccb301ad91246aaef0b04ab4ae4f3c2539ded1010bd6c300.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Sep 2021 08:00:03 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>SB8: Whole Woman’s Health v. Jackson</title>
+      <enclosure url="https://n1.kemono.cr/data/e1/3d/e13d788a10ec9a3452cc3d093b44305ae958514b064622d994cdab985ea0aac3.mp3" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Sep 2021 22:56:16 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Welcome to Law School</title>
+      <enclosure url="https://n1.kemono.cr/data/3c/ad/3cade30992884308981885cd855893a296bc03801a42dd321c4da2e9cc53e561.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Aug 2021 08:00:12 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Nestlé v. Doe</title>
+      <enclosure url="https://n2.kemono.cr/data/82/29/8229061bbd8912fef579fca65bcb98ae8f7c433db844c6d1848befc6acfaa34f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Aug 2021 08:00:19 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Stephen Breyer [PATREON-ONLY]</title>
+      <enclosure url="https://n2.kemono.cr/data/ed/46/ed461fb57eaac01b619c30b091ad87415f6c87c9a15102a1fed87c0be0e16ef6.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Aug 2021 13:11:59 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Stephen Breyer</title>
+      <enclosure url="https://n1.kemono.cr/data/9f/4d/9f4d59628bd813c5d3724721aea6c5910c09b154bd331b118cfbed69e06f611e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Aug 2021 08:00:40 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Americans for Prosperity v. Bonta</title>
+      <enclosure url="https://n2.kemono.cr/data/10/b5/10b5841d322c8fa6ef71a6f617125bd171f03fa38a96f6ad801706545268d252.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Aug 2021 08:00:31 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Brnovich v. Democratic National Committee</title>
+      <enclosure url="https://n3.kemono.cr/data/c5/38/c538a87fd5ab09ec3266bd75262e387482fcf8b7fb9c0528e05ce9f98c29eb67.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Aug 2021 08:00:28 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Why Supreme Court Media Coverage Sucks</title>
+      <enclosure url="https://n1.kemono.cr/data/5f/1c/5f1c751cdd8516727dfe005e43bc74887fea6fc225337f35282775f13c09a695.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jul 2021 08:00:11 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Why Supreme Court Media Coverage Sucks [PATREON-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/df/8d/df8d15ab17739f2e45a8340d4f2dd9688aee0013a9b3f75084412d83ef792c58.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Jul 2021 08:00:09 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Cedar Point Nursery v. Hassid</title>
+      <enclosure url="https://n1.kemono.cr/data/52/07/52073b27a0df1dacf3904bb50c515eb6c51de866f81e96a6e35fcaca327bca2f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Jul 2021 08:00:09 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Textualism</title>
+      <enclosure url="https://n1.kemono.cr/data/d8/4c/d84c2f893766166e4779d18c7f42bb88551a59c9536ab591061ca59c702139f5.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Jun 2021 08:00:44 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Textualism [PATREON-ONLY]</title>
+      <enclosure url="https://n2.kemono.cr/data/ef/bb/efbbaeaf4695bb78dfb08633589355be4ea1c3ca1f8ad4e2b68ad7fd5791d280.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Jun 2021 08:00:03 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Fulton v. Philadelphia [Patreon Early Access]</title>
+      <enclosure url="https://n2.kemono.cr/data/29/10/291042dca60fbb697d6cb80a8043a122e4e679769d86da9e3333fafa1991cf91.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Jun 2021 08:01:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Fulton v. Philadelphia</title>
+      <enclosure url="https://n3.kemono.cr/data/2c/d5/2cd5d9b4275f53390493d800367dd40da7a61e72d834e2a7c663f891e3d962a7.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 22 Jun 2021 08:00:34 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Smith v. Maryland</title>
+      <enclosure url="https://n2.kemono.cr/data/73/b5/73b51d316bb9a5e107f77b38154655b2643e0cebf6193ac1db9435ba3927580d.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Jun 2021 08:00:46 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Meet Nick Wallace [Patreon Early Access]</title>
+      <enclosure url="https://n4.kemono.cr/data/b5/9e/b59eefaee88ef8d3b391ebd048430869abd26c7b0c2571d02bd27e0f6e2439fd.mp3" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Jun 2021 22:13:36 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Meet Nick Wallace  [Patreon Early Access]</title>
+      <enclosure url="https://n1.kemono.cr/data/2e/0d/2e0dbf1994d9216bbd7c4acaa2c70d908d0416c20c7b883d224bd2e932c63c7d.mp3" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Jun 2021 22:02:53 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>5-4 x Even More News - Abortion Rights</title>
+      <enclosure url="https://n2.kemono.cr/data/a3/21/a321ab5b546de69641182f2aa589046a69c289b126f10143260d6ccf3a91cc5e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Jun 2021 08:00:19 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Brett Kavanaugh [PATREON-ONLY]</title>
+      <enclosure url="https://n1.kemono.cr/data/d2/de/d2de10794158fcf2717c97254d2e89c9d680cdd6e6dcfb10afcf55e99774e830.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Jun 2021 08:01:02 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Brett Kavanaugh</title>
+      <enclosure url="https://n2.kemono.cr/data/9f/a4/9fa44d64e22be22118beb2e5891a000a6333c9ec01ae7aa519440167613fabca.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Jun 2021 08:00:42 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Wal-Mart Stores, Inc. v. Dukes</title>
+      <enclosure url="https://n1.kemono.cr/data/ca/5c/ca5c38d91661957dc82366e8899d2bb6654a3a766c29e0f64426d11d38cc472c.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 25 May 2021 08:00:36 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Jones v. Mississippi</title>
+      <enclosure url="https://n4.kemono.cr/data/d8/14/d8144b520aa5504896b9fd445cf40fafc8dedbecd0874dd628a88f182303ff98.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 18 May 2021 08:00:15 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title> Roe v. Wade: The Movie [PATREON-ONLY]</title>
+      <enclosure url="https://n2.kemono.cr/data/98/47/98478ba90f18e7bbdc5356cdcaa77f760a9f5ef38a485deb06ae695cb49a34a2.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 11 May 2021 08:01:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Roe v. Wade: The Movie [PATREON-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/91/91/91915908703664f5910911e093094bf5f8ba900c1782b26d647fa9c357d98e83.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 11 May 2021 08:00:52 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Get Us to Seven feat. Rep. Mondaire Jones</title>
+      <enclosure url="https://n2.kemono.cr/data/cd/3a/cd3a3da95185bde0a5661c04f1429ea2459ab68337329011250ccd5c95269e06.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 04 May 2021 08:00:14 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Bowles v. Russell</title>
+      <enclosure url="https://n4.kemono.cr/data/d4/30/d430bf8d7c2c7d2ddab48792c5432c42dcec00c3da06fdea90c5b950306ee402.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Apr 2021 08:00:25 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Insular Cases [PATREON-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/3a/39/3a393d50de20b8c390785b5934324621e1fabff6e64309f58e3f45a088bcc363.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Apr 2021 08:00:39 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Insular Cases [PATREON-ONLY]</title>
+      <enclosure url="https://n2.kemono.cr/data/58/5b/585b43a5b781ab0812b458da562a605643a774218f238ea4e497a86f7c43de8f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Apr 2021 08:00:03 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Hoffman Plastic Compounds, Inc. v. National Labor Relations Board</title>
+      <enclosure url="https://n1.kemono.cr/data/52/3b/523b893e1afc73e1d9497f158930618b4495749d3833f660f012074a265c2d04.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Apr 2021 08:00:10 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>5-4 x Even More News</title>
+      <enclosure url="https://n1.kemono.cr/data/2b/9f/2b9f9c6d482e72aad4edee067f23223a1cda1fc80fa269e4f03c4e7bad6e965a.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Apr 2021 08:00:26 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Connick v. Thompson</title>
+      <enclosure url="https://n4.kemono.cr/data/56/ec/56ecc4f59240898b410838741ab56d36daa4640ac1c143d7ec402c6b588e64e1.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Mar 2021 08:00:13 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title> The Worst of the Worst: The Trump Judges [PATREON-ONLY]</title>
+      <enclosure url="https://n3.kemono.cr/data/03/a7/03a718fc3501de7db1fbc2ddc37efab723e7fa6ff0a2bf19eb6f837e9f17b39c.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Mar 2021 11:20:34 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Worst of the Worst: The Trump Judges [PATREON-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/3f/24/3f244ff3b9da5be5f51c95b30b14d934888089d831e6eb9c935dd6974e9d7aef.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Mar 2021 08:00:18 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Toyota Motor Manufacturing, Kentucky Inc. v. Williams</title>
+      <enclosure url="https://n3.kemono.cr/data/05/d5/05d589403c032930c8f6026efeb91626c72bda9900108af3fcde8a0d895d4881.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Mar 2021 08:00:56 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>San Antonio ISD v. Rodriguez ft. Alec Karakatsanis</title>
+      <enclosure url="https://n1.kemono.cr/data/99/d8/99d83ebc7dae85342cbbe99dc30e72039741b750188b2e97f015e3c6357d2b9f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Mar 2021 09:00:33 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Antonin Scalia [PATREON-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/2b/9d/2b9dd179014d68cd1b5284d7796859243427ee4abdf45d0d70afecea5cd2e15e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Mar 2021 14:06:43 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Antonin Scalia [PATREON-ONLY]</title>
+      <enclosure url="https://n4.kemono.cr/data/84/8a/848a4fc12fc224b082876c6542e13bb22e587efb11b6871861f8e040f1c2a4e6.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Mar 2021 09:00:22 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>McCleskey v. Kemp ft. Josie Duffy Rice</title>
+      <enclosure url="https://n4.kemono.cr/data/e0/89/e0891498cdde801e58544aed89d273037bbc928658e6ea888716a4327eeb1478.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Feb 2021 09:00:12 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Atkins v. Virginia</title>
+      <enclosure url="https://n4.kemono.cr/data/ab/74/ab749a9e84f5b60b0be47877aa856a7a80edc4607240e6ebc2e1152ebd5e14ee.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Feb 2021 09:00:33 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>US v. Morrison</title>
+      <enclosure url="https://n3.kemono.cr/data/83/e2/83e27d58419acee889246688f5b9c61c2f560affa496a20259588271c48a15e6.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Feb 2021 09:00:32 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Navarette v. California</title>
+      <enclosure url="https://n2.kemono.cr/data/62/34/62340fc5c8085a194d37c6f5baa4f045849fc511ddcb1e2730feb2e77ecf909f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Feb 2021 09:00:03 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Morse v. Frederick</title>
+      <enclosure url="https://n4.kemono.cr/data/6d/c2/6dc224aea1f73c735cffc6d767557a4b11d133ffcc97e239c01fbcb945dbea86.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 26 Jan 2021 09:00:56 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Rise and Fall of Roe v. Wade, Pt. 2</title>
+      <enclosure url="https://n3.kemono.cr/data/7f/33/7f339c0a588841abfba4c78e9152542772425c05d4869ecac4dc62c8e177c90e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 19 Jan 2021 09:00:03 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Rise and Fall of Roe v. Wade, Pt. 1</title>
+      <enclosure url="https://n2.kemono.cr/data/21/9e/219e4e3220346376ee872ddd26a3779eddffa8f28122b18b5627f5b569c12eb0.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 12 Jan 2021 09:00:53 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>5-4 x Know Your Enemy</title>
+      <enclosure url="https://n4.kemono.cr/data/aa/aa/aaaa5e5cc9cea6a7b091f926e52e3927deb719dbdbaad72001bbdb6789d2e2f7.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Dec 2020 09:00:10 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Herrera v. Collins</title>
+      <enclosure url="https://n3.kemono.cr/data/bf/79/bf794ed84e58322a1084d4f2e5c067037f68e20fa5632efd6b31414130af03df.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Dec 2020 09:00:25 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Roman Catholic Diocese v. Cuomo</title>
+      <enclosure url="https://n1.kemono.cr/data/a5/5a/a55a6e71403cfc4103d12081104f32bf6c8f82fd6094eb155c1bc67933e1c33f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Dec 2020 09:00:46 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Ashcroft v. Iqbal</title>
+      <enclosure url="https://n2.kemono.cr/data/fe/97/fe97f39b147f7cf83ee7349b19b89e39820ac5fa257ff0bcb27cebc9d4cc9e59.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Dec 2020 09:00:01 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Arizona Free Enterprise v. Bennett</title>
+      <enclosure url="https://n2.kemono.cr/data/85/43/85436bb52f7630311c9103c10d9ac2c1c15171e2aec3b8ae300fcd98dec59889.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Nov 2020 08:05:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Courts Can’t Save Him</title>
+      <enclosure url="https://n2.kemono.cr/data/51/cf/51cf7f6e06cbaf9cffce29b131221b490d87a4a7106bf1d96cd8d1da9121b18f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Nov 2020 08:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Reliving Bush v. Gore</title>
+      <enclosure url="https://n2.kemono.cr/data/ea/d0/ead0a94769602aa73648df28a545f347aa2068581768d18493c27687ea3909bc.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Nov 2020 08:05:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>How to Fix the Court feat. Rep. Ro Khanna</title>
+      <enclosure url="https://n3.kemono.cr/data/7a/23/7a23e51348d1fcf00245541eb26f0510f5dd119521696cb903a32a96b34c60d4.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 27 Oct 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Rucho v. Common Cause</title>
+      <enclosure url="https://n4.kemono.cr/data/63/74/6374de0fdb76ebeedc113f44beb3ac635b5406619c3fdc2fd62b464d3d4ff576.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Oct 2020 07:30:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Electoral College Coup Is Coming</title>
+      <enclosure url="https://n4.kemono.cr/data/01/39/0139057e075727f92315f45bfc5d5436bbd4eda8a6ef584f4052e0ef80e40ce5.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 13 Oct 2020 07:05:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>“What if Trump Dies?” And Other Questions</title>
+      <enclosure url="https://n3.kemono.cr/data/2a/bd/2abd94d78d81c2036e4ed56a153ad2f48f8e853146cafe425dc1f17fa5396f59.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Oct 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Amy Coney Barrett is a Right Wing Freak</title>
+      <enclosure url="https://n3.kemono.cr/data/93/04/93046744e33507867c6f4a196721ccb3188cf60f05fc33f4c09767c1c0d6878e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 29 Sep 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>What RBG Didn't Understand</title>
+      <enclosure url="https://n1.kemono.cr/data/c3/93/c393895bad76887e510207f2e054137a4a600708d2c926bc110d357bfd03e04c.mp3" type="audio/mpeg"/>
+      <pubDate>Mon, 21 Sep 2020 16:05:46 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>LA v. Lyons</title>
+      <enclosure url="https://n2.kemono.cr/data/2f/09/2f09cc515771e66b414ab3f3fb076d6f3e3463e3e2ee58dc6ca020e0ed58043e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 15 Sep 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Voting Rights</title>
+      <enclosure url="https://n4.kemono.cr/data/c4/b4/c4b47c9ad015ba017dbfeebc3f27e9ea1e61f1e846c761fc9796256a110a7d66.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 08 Sep 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Flood v. Kuhn</title>
+      <enclosure url="https://n3.kemono.cr/data/cd/2a/cd2a5d8433bd27cefcd78201e55df7811a517cbbc2c9d61e9850ab95711a01c9.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 01 Sep 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Nielsen v. Preap</title>
+      <enclosure url="https://n4.kemono.cr/data/3e/19/3e19d3d676f8435c02337b5f9868afbbebddee82d81790465b08e3c12b20fb88.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Aug 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Boy Scouts of America v. Dale</title>
+      <enclosure url="https://n2.kemono.cr/data/54/3e/543ebadf9f80ab366c836800ae171d84f2008327721decccb61c95556827dc0c.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Aug 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Milliken v. Bradley</title>
+      <enclosure url="https://n2.kemono.cr/data/ad/9d/ad9de686c05084820d2282487cfd70a8b863df11d4a76edd73b9151b88047b8e.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Aug 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Term Recap: 2019-2020</title>
+      <enclosure url="https://n1.kemono.cr/data/00/51/0051931001ea0f557f3f8b053035f812fc7a077710540f37bb8e084abc1a7e78.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Aug 2020 07:30:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Bennis v. Michigan</title>
+      <enclosure url="https://n4.kemono.cr/data/6a/50/6a50460f470e18c55e59e2c13a31fcf20a16b7f9741b0ed645fc76d16bf754f3.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Jul 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Epic Systems v. Lewis</title>
+      <enclosure url="https://n2.kemono.cr/data/dd/4b/dd4b0094436db58aca9c115ae3fe5e2b347272adacb38bc352aff2f9521128ff.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Jul 2020 09:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Buckley v. Valeo</title>
+      <enclosure url="https://n2.kemono.cr/data/f6/dc/f6dc3fae9a3ef4d1389ee355342865d141e58b3e666521a4e8688a4c8a09348b.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Jul 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Janus v. AFSCME</title>
+      <enclosure url="https://n3.kemono.cr/data/ce/85/ce851ad432faf7be807fec9202df602c52f1fbacde964ae25b2da3ce5ded9e85.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 30 Jun 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Qualified Immunity</title>
+      <enclosure url="https://n4.kemono.cr/data/95/27/9527ca03ff129027b09c0bbe5b99575cb034d03276fa9b62a3849d153a21ea62.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Jun 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Exxon Shipping v. Baker</title>
+      <enclosure url="https://n4.kemono.cr/data/70/5e/705e902b5c76518ee99607b5c0aedfd7a4a9f2f24dce97b875f5a2f60569c031.mp3" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Jun 2020 09:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Bostock v. Clayton County, Georgia</title>
+      <enclosure url="https://n3.kemono.cr/data/7d/1a/7d1ae450ccaf0f9f31d6c59f7367c0ac5122948448452af04122c4bfd796cd2f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Jun 2020 12:30:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Hernandez v. Mesa</title>
+      <enclosure url="https://n2.kemono.cr/data/69/5d/695d856e902dbacd39d2845afd44fa06f3cbec4248dba5241e615fad2e2983f9.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 09 Jun 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Burwell v. Hobby Lobby</title>
+      <enclosure url="https://n4.kemono.cr/data/d6/28/d628e6c8ebced95440cefb8a6274dffbfd50f670e509e475163f48ac4f0c093b.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Jun 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Buck v. Bell</title>
+      <enclosure url="https://n3.kemono.cr/data/26/89/26899a81443c0b0dd8c8f3f5d1e4a109da022670fc670a7fa9f0f105fcf53ea8.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 26 May 2020 07:30:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Tison v. Arizona</title>
+      <enclosure url="https://n3.kemono.cr/data/24/29/24294ce40f1442f83afe68072f4d13bbc8d983c13838e5a1fab4ec211c638dd6.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 19 May 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Clapper v. Amnesty International</title>
+      <enclosure url="https://n2.kemono.cr/data/19/2b/192b32caa40a7460d03dd2cd193eedcc7443066751ccd10abc4351eccf2f3654.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 12 May 2020 07:30:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>The Biden Court</title>
+      <enclosure url="https://n1.kemono.cr/data/70/de/70deee8270916f444f9decdd13634f4b375c88e31201e3018d1b23f2848438ad.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 05 May 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>DC v. Heller</title>
+      <enclosure url="https://n2.kemono.cr/data/14/63/146341ffc32567db23413566fa50cd8fb4afa22af919ff4982a7db720e47bcaf.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Apr 2020 07:00:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Kelo v. New London</title>
+      <enclosure url="https://n4.kemono.cr/data/f7/5f/f75f3daf7443e40d0df5c56b2d9660db84ef6a55f22c4be7d5a4d35ed437f69f.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Apr 2020 07:30:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Castle Rock v. Gonzales</title>
+      <enclosure url="https://n4.kemono.cr/data/01/f2/01f2836cafea527e89cfd88edb4817319d1256af463e7c1d6edd0ffe6c894453.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Apr 2020 07:30:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Emergency Episode: RNC v. DNC</title>
+      <enclosure url="https://n3.kemono.cr/data/d8/be/d8be072c5aae91d7a5978c65eaa2899f52e334bf177f019f8afa20c38d277796.mp3" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Apr 2020 16:45:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Trump v. Hawaii</title>
+      <enclosure url="https://n4.kemono.cr/data/fc/29/fc295a468548493df9c11c8218209a969c59dfa2b3e66c29e9f11730c3eba3c5.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Apr 2020 07:30:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>NFIB v. Sebelius</title>
+      <enclosure url="https://n2.kemono.cr/data/be/26/be261d8efcbbbf9f55cfc5a32f021898aea1d55df19af8663c2ea00a848cfec9.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Mar 2020 07:30:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Terry v. Ohio</title>
+      <enclosure url="https://n3.kemono.cr/data/3b/83/3b830df0a4b08fed9f01c900206197291079d63cd42a7140b309a2544597e99b.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Mar 2020 07:30:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Shelby County v. Holder</title>
+      <enclosure url="https://n3.kemono.cr/data/09/6f/096f58217d8856367e6dcf175fe52f93a0d4d7464b0f3b80bcf92cecce500043.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Mar 2020 13:15:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Fisher v. University of Texas</title>
+      <enclosure url="https://n1.kemono.cr/data/6a/21/6a21db766cc3fc26e661d3be19782e9c620087b48b76758ed5be72d904e599bb.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Mar 2020 07:30:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Citizens United v. FEC</title>
+      <enclosure url="https://n1.kemono.cr/data/c8/65/c8656126dd61e496e0571c37694a581063e1723bdf60a746c2e6051a4bc2c2d0.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Mar 2020 08:30:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Bush v. Gore</title>
+      <enclosure url="https://n2.kemono.cr/data/37/ca/37ca1b63cf40d68820cf61297872641f561b607634ffcbf6b6e7edd6d3d8c09b.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 25 Feb 2020 08:30:00 </pubDate>
+      <description/>
+    </item>
+    <item>
+      <title>Official Trailer: 5-4</title>
+      <enclosure url="https://n3.kemono.cr/data/8f/4b/8f4be8ca92a94fd94f3e077deb6fa8ff892d01521b6c1868cc407cb4c9c96364.mp3" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Feb 2020 20:26:00 </pubDate>
       <description/>
     </item>
   </channel>
